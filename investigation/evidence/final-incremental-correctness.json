@@ -1,0 +1,69 @@
+{
+  "project": "spacex-agent",
+  "commit": "0691f432bb4a5851626f28765017e9067c682099",
+  "checks": [
+    {
+      "scenario": "unchanged",
+      "noGeneratedWrites": true,
+      "buildSummary": "\u2713 918 tracked files are up to date\ntime taken: 0.193878 seconds\n"
+    },
+    {
+      "scenario": "ordinary-content",
+      "incrementalEqualsForcedFull": true,
+      "changedPublicationFiles": 1,
+      "changedGeneratedFiles": 1,
+      "buildSummary": "built launches/crew13/\n    \u21b3 dependency changed: content/launches/crew13/index.html\n\ud83d\udce6 1 file rebuilt successfully\ntime taken: 0.148775 seconds\n"
+    },
+    {
+      "scenario": "shared-layout",
+      "incrementalEqualsForcedFull": true,
+      "changedPublicationFiles": 783,
+      "changedGeneratedFiles": 783,
+      "buildSummary": "rebuild causes:\n  \u21b3 dependency changed: templates/footer.html \u2192 783 files\naffected files: /, launches/ARABSAT-BADR-8/, launches/GPSiii6/, launches/ISI-EROS-C-3/, launches/Inmarsat-I-6-F2/  +778 more\n\ud83d\udce6 783 files rebuilt successfully\ntime taken: 0.891531 seconds\n"
+    },
+    {
+      "scenario": "shared-navigation",
+      "incrementalEqualsForcedFull": true,
+      "changedPublicationFiles": 783,
+      "changedGeneratedFiles": 783,
+      "buildSummary": "rebuild causes:\n  \u21b3 dependency changed: templates/header.html \u2192 783 files\naffected files: /, launches/ARABSAT-BADR-8/, launches/GPSiii6/, launches/ISI-EROS-C-3/, launches/Inmarsat-I-6-F2/  +778 more\n\ud83d\udce6 783 files rebuilt successfully\ntime taken: 0.887026 seconds\n"
+    },
+    {
+      "scenario": "shared-css",
+      "incrementalEqualsForcedFull": true,
+      "changedPublicationFiles": 783,
+      "changedGeneratedFiles": 783,
+      "buildSummary": "rebuild causes:\n  \u21b3 dependency changed: templates/styles.html \u2192 783 files\naffected files: /, launches/ARABSAT-BADR-8/, launches/GPSiii6/, launches/ISI-EROS-C-3/, launches/Inmarsat-I-6-F2/  +778 more\n\ud83d\udce6 783 files rebuilt successfully\ntime taken: 0.909387 seconds\n"
+    },
+    {
+      "scenario": "frontend-js-with-cache-key",
+      "incrementalEqualsForcedFull": true,
+      "changedPublicationFiles": 784,
+      "changedGeneratedFiles": 783,
+      "buildSummary": "rebuild causes:\n  \u21b3 dependency changed: templates/template.html \u2192 783 files\naffected files: /, launches/ARABSAT-BADR-8/, launches/GPSiii6/, launches/ISI-EROS-C-3/, launches/Inmarsat-I-6-F2/  +778 more\n\ud83d\udce6 783 files rebuilt successfully\ntime taken: 0.93367 seconds\n"
+    },
+    {
+      "scenario": "maintained-media-metadata",
+      "incrementalEqualsForcedFull": true,
+      "changedPublicationFiles": 1,
+      "changedGeneratedFiles": 0,
+      "buildSummary": "\u2713 918 tracked files are up to date\ntime taken: 0.130434 seconds\n"
+    },
+    {
+      "scenario": "route-add",
+      "incrementalEqualsForcedFull": true
+    },
+    {
+      "scenario": "route-rename",
+      "incrementalEqualsForcedFull": true,
+      "oldOutputAbsent": true
+    },
+    {
+      "scenario": "route-delete",
+      "incrementalEqualsForcedFull": true,
+      "removedOutputAbsent": true
+    }
+  ],
+  "restoredPublicationExact": true,
+  "finalParityAccepted": false
+}

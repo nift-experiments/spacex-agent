@@ -1,0 +1,18 @@
+{
+  "project": "spacex-agent",
+  "commit": "0691f432bb4a5851626f28765017e9067c682099",
+  "freshGitHubClone": true,
+  "setup": "All seven release manifests verified through immutable SHA256 object cache; cache setup-only, not used by build/serve.",
+  "normalBuild": "nift build",
+  "generatedOutputHashesEqualMaintainedProject": true,
+  "generatedOutputFiles": 918,
+  "publicationDigest": "cb1d5aa8c759a34481f76490f261d8caeb25aa3a4dd1f8cc92f900d4100aeaa9",
+  "buildWallSeconds": 1.43,
+  "maxProcessRssMiB": 111.390625,
+  "normalPreview": {
+    "homepageStatus": 200,
+    "siteJsStatus": 200,
+    "offlineServices": true,
+    "siblingReferenceRequired": false
+  }
+}
